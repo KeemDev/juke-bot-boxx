@@ -1,0 +1,12 @@
+{
+  "name": "music-bot",
+  "version": "0.0.1 INDEV",
+  "main": "index.js",
+  "author": "oqwus",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "discord-player": "^3.0.3",
+    "discord.js": "^12.2.0",
+    "ffmpeg-static": "^4.2.7"
+  }
+}
