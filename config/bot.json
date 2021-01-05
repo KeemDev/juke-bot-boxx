@@ -1,5 +1,5 @@
 {
-    "game": "GAME",
-    "prefix": "j",
-    "token_bot": "NzkwNTIyNDg2NDA4MDg1NTA0.X-B1bw.28z4H1-K7Fwl_DpirLO3vXgsLF8"
+    "game": "YOURGAMEGOESHERE",//this game can a messgae
+    "prefix": "YOURPREFIXGOESHERE",
+    "token_bot": "YOURTOKENGOESHERE"
 }
